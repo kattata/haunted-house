@@ -1,4 +1,4 @@
-# Three.js Journey
+# Haunted house
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
